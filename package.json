@@ -1,5 +1,5 @@
 {
-  "name": "graphics-service-app-server",
+  "name": "it-service-app-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
